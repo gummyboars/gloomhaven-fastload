@@ -12,3 +12,9 @@ Parallelism is achieved by loading the main scene while the intro videos are pla
 ## Compatibility
 This mod is client-side only. You may safely play with others that do not have the mod.
 This mod does not affect save files.
+
+## Other Mods
+You may be interested in other mods for Gloomhaven:
+- [Bug Fixes](https://github.com/gummyboars/gloomhaven-bugfixes)
+- [Camera Tweaks](https://github.com/gummyboars/gloomhaven-camera)
+- [UI Tweaks](https://github.com/gummyboars/gloomhaven-uitweaks)
